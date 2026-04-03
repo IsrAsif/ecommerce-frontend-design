@@ -88,22 +88,6 @@ frontend_development_internship_task/
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/ecommerce-frontend-design.git
-   ```
-
-2. **Open in browser**
-   ```bash
-   cd ecommerce-frontend-design
-   open index.html
-   ```
-   Or simply double-click `index.html` — no build tools or server needed.
-
----
-
 ## 📱 Responsive Breakpoints
 
 | Breakpoint | Layout |
@@ -127,8 +111,8 @@ Figma Design: [Ecommerce Web Design (Community)](https://www.figma.com/design/8I
 
 **Isra Asif**
 - Internship: DevelopersHub Corporation
-- LinkedIn: [your-linkedin]
-- GitHub: [https://github.com/IsrAsif]
+- LinkedIn: https://www.linkedin.com/in/isra-asif-3731852b8/
+- GitHub: https://github.com/IsrAsif
 
 ---
 
